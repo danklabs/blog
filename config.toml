@@ -1,4 +1,4 @@
-baseURL = "https://thirsty-babbage-d47ab5.netlify.com/"
+baseURL = "http://danklabs.netlify.com/"
 languageCode = "en-es"
 title = "Dank Labs"
 theme = "aether"
