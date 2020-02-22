@@ -1,0 +1,22 @@
+baseURL = "https://thirsty-babbage-d47ab5.netlify.com/"
+languageCode = "en-es"
+title = "Dank Labs"
+theme = "aether"
+googleAnalytics = "Your google analytics tracking ID - optional"
+disqusShortname = "https-danklabs-tech"
+
+enableRobotsTXT = true
+canonifyURLs = true
+
+[permalinks]
+    post = "/blog/:title/"
+
+
+[params]
+brand = "Dank Labs"
+description = "A small company making stuff for the internet"
+homeimg = "homebtn.png"
+bgimg = "bg.jpg"
+
+[markup.goldmark.renderer]
+unsafe= true
