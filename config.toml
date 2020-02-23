@@ -2,7 +2,7 @@ baseURL = "https://danklabs.tech"
 languageCode = "en-es"
 title = "Dank Labs"
 theme = "aether"
-googleAnalytics = "Your google analytics tracking ID - optional"
+googleAnalytics = "UA-158930089-1"
 disqusShortname = "https-danklabs-tech"
 
 enableRobotsTXT = true
