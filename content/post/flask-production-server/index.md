@@ -1,6 +1,6 @@
 ---
 title: "Quickest way to move your flask app to production with Docker (In 5 minutes)"
-date: "2020-02-23"
+date: "2020-02-22"
 description: ""
 categories: []
 displayInMenu: false
