@@ -40,5 +40,3 @@ fields:
     - type: text
       name: description
       label: description
-pages:
-- content/post/deepfake/how-to-deep-fake-without-spending-a-dime.md
