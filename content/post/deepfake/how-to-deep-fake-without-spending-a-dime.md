@@ -5,7 +5,7 @@ description = "This is how anyone with or without great hardware or coding exper
 displayInList = true
 displayInMenu = false
 draft = true
-dropCap = false
+dropCap = true
 resources = []
 title = "How to deep fake without spending a dime"
 
